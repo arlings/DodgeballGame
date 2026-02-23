@@ -4,3 +4,5 @@ This is playable only on one device, player 1 using WASD and player 2 using the 
 The specific pellets scattered around the map can give different powerups, collect them and find what powers they have to offer.
 To install, just download the JS file titled MainGame.js, and run it in an IDE or online emulator, with a friend of course.
 If you want to add anything to this game, feel free to do so, so long as Arlind Zalli (me) is credited for the original version. This is quite a basic game so I wouldn't expect anyone to add anything to it in the future. If you do, also feel free to send the new revision to me directly at arlindzalli2@gmail.com ! 
+Also check out the license if you are uncertain about posting or making changes to a revision of this game.
+- Arlind Zalli, 2026
